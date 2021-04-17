@@ -18,7 +18,6 @@ export default function Home() {
           <code>pages/index.js</code>
         </p>
 
-
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <a href="https://nextjs.org/docs" className="shadow hover:shadow-lg">
             <h3>Documentation &rarr;</h3>
